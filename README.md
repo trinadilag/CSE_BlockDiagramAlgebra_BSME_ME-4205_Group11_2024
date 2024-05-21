@@ -24,6 +24,17 @@ MANUAL COMPUTATION:
 
 BLOCK DIAGRAM 2:
 
+![block diagram](https://github.com/zolobsu/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/160817849/7b91daf0-4ddb-4f08-b5d2-bce8400f473a)
+
+![orig step](https://github.com/zolobsu/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/160817849/a81624f6-08f1-461e-abe0-afc716e12073)
+
+REDUCED BLOCK DIAGRAM 1:
+
+![reduced transfer function](https://github.com/zolobsu/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/160817849/a381fb99-be71-49ba-be2a-3330e741a41b)
+
+![reduced step](https://github.com/zolobsu/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/160817849/a45a64d6-1ff7-4865-8754-5a39be4d02b9)
+
+MANUAL COMPUTATION:
 
 CONTRIBUTIONS:
 
