@@ -13,6 +13,10 @@ REDUCED BLOCK DIAGRAM 1:
 
 MANUAL COMPUTATION:
 
+![436690425_1625694321521175_8126060420722057487_n](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159035926/ad251877-1350-446d-88b7-0d538eef96aa)
+
+![436421725_265920466615167_5413525230962615288_n](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159035926/5da65512-f5c3-4342-be7a-65b5d378981d)
+
 ![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/b55ed350-ca60-4c9d-bfda-525c1023c121)
 
 ![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/62ea0006-7086-4cda-a196-a5596142dcc0)
