@@ -18,6 +18,9 @@ MANUAL COMPUTATION:
 ![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/62ea0006-7086-4cda-a196-a5596142dcc0)
 
 
+BLOCK DIAGRAM 2:
+
+
 CONTRIBUTIONS:
 
 Block Diagram 1:
