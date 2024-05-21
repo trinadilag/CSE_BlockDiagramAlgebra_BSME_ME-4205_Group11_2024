@@ -1,4 +1,3 @@
-![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/f5943b28-05a7-4f20-a375-5259f456f27e)# CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024
 
 BLOCK DIAGRAM 1:
 
