@@ -11,6 +11,13 @@ REDUCED BLOCK DIAGRAM 1:
 
 ![445838707_1794163454442792_8819767392226242890_n](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/15ae6211-c735-4ac9-ba78-d544d8011e56)
 
+MANUAL COMPUTATION:
+
+![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/b55ed350-ca60-4c9d-bfda-525c1023c121)
+
+![image](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159030152/62ea0006-7086-4cda-a196-a5596142dcc0)
+
+
 CONTRIBUTIONS:
 
 Block Diagram 1:
