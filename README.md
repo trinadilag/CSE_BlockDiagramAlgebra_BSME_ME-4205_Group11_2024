@@ -35,6 +35,10 @@ REDUCED BLOCK DIAGRAM 1:
 ![reduced step](https://github.com/zolobsu/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/160817849/a45a64d6-1ff7-4865-8754-5a39be4d02b9)
 
 MANUAL COMPUTATION:
+![No2_1](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159038194/3dda7c5e-a835-459f-8cc8-e4c2ff947dc7)
+![No2_2](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159038194/570da38c-250f-4db8-83a6-d40d803da051)
+![No2_3](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159038194/32a29453-def2-4101-abcc-a1dfd03f3716)
+![No2_4](https://github.com/trinadilag/CSE_BlockDiagramAlgebra_BSME_ME-4205_Group12_2024/assets/159038194/1c4d372f-9098-4b0c-b861-8ec4a00ef5f7)
 
 CONTRIBUTIONS:
 
